@@ -1,1 +1,4 @@
-clan-shadow-game.html.
+git branch -m main clan-shadow-game.html
+origen de git fetch
+git branch -u origin/clan-shadow-game.html clan-shadow-game.html
+git remoto set-head origen -a
